@@ -25,7 +25,7 @@ setuptools.setup(
         "torchvision<0.9.0",
         "torchtext<0.9.0",
         "ftfy",
-        "pytorch_lightning>=1.2.0,<1.3.0",
+        "pytorch_lightning>=1.2.0,<2.5.0",
         "dill",
         "efficientnet_pytorch"
     ],
