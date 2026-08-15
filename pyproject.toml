@@ -1,0 +1,15 @@
+[project]
+name = "backprop"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "dill>=0.4.1",
+    "efficientnet-pytorch>=0.7.1",
+    "ftfy>=6.3.1",
+    "pytorch-lightning>=2.6.5",
+    "sentence-transformers>=5.7.0",
+    "torch>=2.13.0",
+    "torchtext>=0.18.0",
+    "torchvision>=0.28.0",
+    "transformers>=5.15.0",
+]
